@@ -1,7 +1,7 @@
 mysql:
   url: jdbc:mysql://localhost:3306/demo?createDatabaseIfNotExist=true&useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai
   username: root
-  password: \002526\
+  password: 002526
 
 eureka:
   instance: localhost
