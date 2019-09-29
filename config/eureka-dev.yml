@@ -1,0 +1,6 @@
+eureka:
+  instance: localhost
+  port: 8011
+  user:
+    name: user 
+    pwd: user

@@ -1,0 +1,6 @@
+config:
+  server:
+    git: 
+      user: 273491681@qq.com
+      pwd: shitina19790326
+      label: master
